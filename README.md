@@ -1,2 +1,7 @@
-# internship_citizen_science_data_analysis
+# Description 
 Internship on citizen science and data analysis.
+
+# Main contributors 
+Salim Ahmad, Liubov 
+
+# How to use this repository 
