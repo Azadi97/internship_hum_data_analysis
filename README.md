@@ -1,5 +1,5 @@
 # Description 
-Internship on citizen science and data analysis.
+Internship on humanitarian data analysis with using open data and GAMA open source tool.
 
 # Main contributors 
 Salim Ahmad, Liubov 
