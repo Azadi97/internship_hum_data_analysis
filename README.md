@@ -1,6 +1,9 @@
 # Description 
 Internship on humanitarian data analysis with using open data and GAMA open source tool.
 
+# Model Documentation 
+The model is documented in the comments of the gaml file.
+
 # Main contributors 
 Salim Ahmad, Liubov 
 
